@@ -34,6 +34,14 @@ All the commands accept the ``bang``.
 ## Credits
 * [tpope/vim-rake][3]
 
+## Self-Promotion
+
+Like this plugin?
+* Star the repository on [GitHub](https://github.com/amiorin/vim-fenced-code-blocks)
+* Follow [amiorin](http://albertomiorin.com) on
+  * [Twitter](http://twitter.com/amiorin)
+  * [GitHub](https://github.com/amiorin)
+
 ## License
 Copyright (C) 2013 Alberto Miorin. Distributed under the MIT License.
 
