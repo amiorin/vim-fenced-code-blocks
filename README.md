@@ -1,5 +1,5 @@
 ## Introduction
-[Fenced-code-blocks][4] is a very useful feature of GitHub Flavored Markdown.
+[Fenced code blocks][4] are a very useful feature of GitHub Flavored Markdown.
 With this plugin you can edit the fragment of code embedded inside the
 markdown with the right filetype.
 
