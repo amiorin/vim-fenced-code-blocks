@@ -50,3 +50,7 @@ Copyright (C) 2013 Alberto Miorin. Distributed under the MIT License.
 [3]: https://github.com/tpope/vim-rake
 [4]: https://help.github.com/articles/github-flavored-markdown#fenced-code-blocks
 [5]: https://raw.github.com/amiorin/vim-fenced-code-blocks/master/demo.gif
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/amiorin/vim-fenced-code-blocks/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
